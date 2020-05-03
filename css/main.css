@@ -1,0 +1,8 @@
+body{
+  font-family: monospace;
+}
+
+.dark {
+  background-color: #212121;
+  color: #fff;
+}

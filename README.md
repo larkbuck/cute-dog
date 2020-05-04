@@ -24,7 +24,7 @@
 
 #### Custom CSS classes:
 
-* Nothing setup for navbar or footer...
+* Note: no custom classes setup for navbar - that's on you!
 
       /* custom css for jumbotron */
       .jumbo-custom {}
@@ -49,5 +49,5 @@
       }
 
       /* for footer */
-      .page-footer{
+      .page-footer {
       }

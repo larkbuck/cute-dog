@@ -4,10 +4,18 @@ body {
   background: linear-gradient(61deg, rgba(254, 236, 211, 0.6306897759103641) 0%, rgba(148, 174, 233, 0.5970763305322129) 100%);
 }
 
-/* custom css for jumbotron */
-.jumbo-custom{
-
+/* for fullscreen p5 canvas */
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* change z-index to position canvas IN FRONT / BEHIND the HTML */
+  /* note: you can't click on links if the p5 canvas is on top */
+  z-index: -1;
 }
+
+/* custom css for jumbotron */
+.jumbo-custom {}
 
 /* class for whole portfolio grid div */
 .portfolio {
@@ -20,9 +28,7 @@ body {
 }
 
 /* each portfolio grid item */
-.port-item {
-
-}
+.port-item {}
 
 /* all portfolio photos */
 .port-photo {

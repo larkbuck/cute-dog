@@ -12,7 +12,7 @@
 <br>
 
 ## 🦴🦴🦴🦴 Customizable:
-* Custom classes
+* Custom classes ready for you to build from (details below)
 * Fullscreen p5 sketch running in the background.
 
 <br>

@@ -40,9 +40,14 @@
       }
 
       /* each portfolio grid item */
-      .port-item {}
+      .port-item {
+      }
 
       /* all portfolio photos */
       .port-photo {
         box-shadow: 5px 10px 25px rgba(0, 0, 0, 0.1);
+      }
+
+      /* for footer */
+      .page-footer{
       }

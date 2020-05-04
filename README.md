@@ -27,9 +27,13 @@
 
 ## Notes:
 
+#### YouTube tutorials
+* The completed demo has a few added features I mentioned but didn't complete in the YouTube videos (ie. paw icon in navbar)
+* I also changed some of the navbar text and created blank subpages for "project" as well as "bio"
+
 #### Custom CSS classes:
 
-* Here's custom classes ready to go. There aren't any setup for the navbar - that's on you!
+* Here's the custom classes added to the demo and ready to go. There aren't any setup for the navbar - that's on you!
 
       /* custom css for jumbotron */
       .jumbo-custom {}

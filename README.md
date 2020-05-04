@@ -6,8 +6,8 @@
 <br>
 
 ## 🦴🦴🦴🦴 Responsive:
-* The items are a (funky) grid on the browser and stack on mobile.
-* The navbar collapses to a hamburger menu
+* The portfolio photos form a (funky) grid in the browser and stack vertically on mobile.
+* The navbar collapses to a hamburger menu on tablet + mobile
 
 <br>
 

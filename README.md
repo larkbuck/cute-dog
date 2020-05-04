@@ -3,15 +3,19 @@
 
 #### Responsive and customizable template + tutorials for artists who know some HTML/CSS
 
+<br>
+
 ## 🦴🦴🦴🦴 Responsive:
 * The items are a (funky) grid on the browser and stack on mobile.
 * The navbar collapses to a hamburger menu
 
+<br>
 
 ## 🦴🦴🦴🦴 Customizable:
 * Custom classes
 * Fullscreen p5 sketch running in the background.
 
+<br>
 
 ## 🦴🦴🦴🦴 Tutorials and Files
 
@@ -19,12 +23,13 @@
 * Follow [YouTube tutorials here](https://www.youtube.com/playlist?list=PLT6L9mOkCXcPAcVwh9esKt3-hZ3baeEH6)
 * Get the files from this repository or [download the zip here](https://larkvcr.com/cute-dog/bootstrap-demo.zip)
 
+<br>
 
 ## Notes:
 
 #### Custom CSS classes:
 
-* Note: no custom classes setup for navbar - that's on you!
+* Here's custom classes ready to go. There aren't any setup for the navbar - that's on you!
 
       /* custom css for jumbotron */
       .jumbo-custom {}

@@ -60,3 +60,18 @@
       /* for footer */
       .page-footer {
       }
+
+
+* CSS for Full Screen canvas
+
+
+      canvas {
+        position: fixed;
+        top: 0;
+        left: 0;
+        /* change z-index to position canvas IN FRONT OR BEHIND the HTML */
+        z-index: -1;
+        /* note: if the p5 canvas is on top, you have to set pointer-events to none
+        so that you can click on links below */
+        pointer-events: none;
+      }

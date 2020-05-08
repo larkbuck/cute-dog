@@ -33,7 +33,7 @@
 
 #### Custom CSS classes:
 
-* Here's the custom classes added to the demo and ready to go. There aren't any setup for the navbar - that's on you!
+Here's the custom classes added to the demo and ready to go. There aren't any setup for the navbar - that's on you!
 
       /* custom css for jumbotron */
       .jumbo-custom {}
@@ -62,7 +62,7 @@
       }
 
 
-* CSS for Full Screen canvas
+CSS for Full Screen canvas
 
 
       canvas {

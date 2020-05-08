@@ -30,6 +30,7 @@
 #### YouTube tutorials
 * The completed demo has a few added features I mentioned but didn't complete in the YouTube videos (ie. paw icon in navbar)
 * I also changed some of the navbar text and created blank subpages for "project" as well as "bio"
+* Project and bio pages have a sticky footer =)
 
 #### Custom CSS classes:
 

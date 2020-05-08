@@ -21,7 +21,7 @@
 
 * See the live [website here](https://larkvcr.com/cute-dog/).
 * Follow [YouTube tutorials here](https://www.youtube.com/playlist?list=PLT6L9mOkCXcPAcVwh9esKt3-hZ3baeEH6)
-* Get the files from this repository or [download the zip here](https://larkvcr.com/cute-dog/bootstrap-demo.zip)
+* Get the files from this repository or [download the zip here](bootstrap-demo.zip)
 
 <br>
 

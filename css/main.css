@@ -11,7 +11,7 @@ canvas {
   top: 0;
   left: 0;
   /* z-index places canvas above or below your HTML  */
-  z-index: 1;
+  z-index: -1;
   pointer-events: none;
   /* note: if the p5 canvas is on top, you have to set pointer-events to none
   so that you can still click on links in HTML under Canvas */

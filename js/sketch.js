@@ -9,9 +9,9 @@ function setup() {
 
   // draw a paw at 1 second intervals
   setInterval(function() {
-    let pawSize = random(15, 30);
+    let pawSize = random(20, 40);
     image(paw, random(windowWidth), random(windowHeight), pawSize, pawSize);
-  }, 1000)
+  }, 2000)
 
 }
 
